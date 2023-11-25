@@ -1212,7 +1212,7 @@ footer .link-items a {
 
 
 /*----Larg screen------*/
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 1400px) {
     body {
         font-size: 1.3em;
     }
